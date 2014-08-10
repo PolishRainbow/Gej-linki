@@ -16,7 +16,7 @@ Zakładki do ciekawych dla geja stron. Linki w kategoriach sortowane alfabetyczn
 * http://www.gaychan.com/ (tymczasowo zamknięty)
 * http://www.newfapchan.org/gay/
 * http://www.newfapchan.org/men/
-* http://tęchan.org.pl/
+* [http://tęchan.org.pl/](http://xn--tchan-j0a.org.pl/)
 
 ## Czaty
 * http://czateria.interia.pl/czat_blokada,id,124,room,Gay
@@ -69,4 +69,4 @@ Zakładki do ciekawych dla geja stron. Linki w kategoriach sortowane alfabetyczn
 
 ## Wiedza
 * http://www.homopedia.pl/
-* [Jestem gejem. Jestem lesbijką. Komu mogę o tym powiedzieć? Materiały szkoleniowe dla psychologów, pedagogów, nauczycieli, pracowników służby zdrowia i sektora pomocy społecznej \[PDF\]](* http://www.kph.org.pl/publikacje/jestem_gejem_jestem_lesbijka.pdf)
+* [Jestem gejem. Jestem lesbijką. Komu mogę o tym powiedzieć? Materiały szkoleniowe dla psychologów, pedagogów, nauczycieli, pracowników służby zdrowia i sektora pomocy społecznej \[PDF\]](http://www.kph.org.pl/publikacje/jestem_gejem_jestem_lesbijka.pdf)
