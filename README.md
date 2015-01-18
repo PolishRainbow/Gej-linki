@@ -11,6 +11,7 @@ Zakładki do ciekawych dla geja stron. Linki w kategoriach sortowane alfabetyczn
 * http://zwyklezyciegeja.blogspot.com/
 
 ## Chany
+* http://8ch.net/cuteboys/
 * https://boards.4chan.org/lgbt/
 * https://boards.4chan.org/hm/
 * http://www.gaychan.com/ (tymczasowo zamknięty)
